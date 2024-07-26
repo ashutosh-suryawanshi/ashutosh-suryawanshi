@@ -1,5 +1,10 @@
 ## Hi there, I am Ashutosh 👋
 
+💻 I'm a Software Developer working on 
+
+[1]: angular.io
+[![angular](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)][1]
+
 <!--
 **ashutosh-suryawanshi/ashutosh-suryawanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
