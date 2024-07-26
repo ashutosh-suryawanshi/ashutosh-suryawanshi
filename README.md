@@ -3,7 +3,9 @@
 💻 I'm a Software Developer working on 
 
 [1]: angular.io
+[2]: angular.io
 [![angular](angular_logo.png)][1]
+[![node.js](node_logo.png)][2]
 
 <!--
 **ashutosh-suryawanshi/ashutosh-suryawanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
